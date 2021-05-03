@@ -14,7 +14,7 @@ dependencies:
   hex: ^0.2.0
   bs58check: ^1.0.1
   meta: ^1.2.3
-  bech32: 0.1.2
+  bech32: ^0.2.0
 
 dev_dependencies:
   test: ^1.15.4
